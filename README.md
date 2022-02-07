@@ -13,7 +13,7 @@ THEN I find a concise, descriptive title<br />
 ## Link to the website:
 https://avuong19.github.io/Code-Refactor/
 
-## Preview if the website:
+## Preview of the website:
 
 
 ![Untitled_ Feb 6, 2022 10_34 PM](https://user-images.githubusercontent.com/85915124/152725182-57825500-1052-4073-9693-5b5a2ea75fa8.gif)
